@@ -1,5 +1,6 @@
 staenker.apt-sources-baseline
 =========
+[![Ansible Galaxy](http://img.shields.io/badge/AnsibleGalaxy-staenker.apt--sources--baseline-blue.svg?style=flat)](https://galaxy.ansible.com/list#/roles/2126)
 
 Sets the contents of /etc/apt/sources.list a secure server should use as a
 baseline.
