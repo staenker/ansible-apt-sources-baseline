@@ -1,0 +1,11 @@
+---
+- name: Set baseline apt sources
+  template:
+    src: etc/apt/sources.list.j2
+    dest: /etc/apt/sources.list
+    owner: root
+    group: root
+    mode: 0600
+    backup: no
+  notify:
+  - update apt
