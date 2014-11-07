@@ -41,10 +41,10 @@ A quick reminder on:
     * utopic => 14.10
     * vivid => 15.04 pre alpha
 * Sections
-    * You should not use anything other than "main" and "main restricted"
-    * If you are absolutely sure about what you are doing:
+    * You should not use anything other than:
         * "main"
         * "main restricted"
+    * If you are absolutely sure about what you are doing:
         * "main restricted universe" => INSECURE
         * "main restricted universe multiverse" => INSECURE
 
